@@ -1,9 +1,7 @@
 # Deep Learning Specialization
-Coursera-deeplearningspecialization
+[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) @ [DeepLearning.AI](https://www.deeplearning.ai/)
 
-Programming assignments and quizzes from all courses in the Coursera Deep Learning specialization offered by `DeepLearning.AI`.
-
-Instructor: Andrew Ng
+Instructor: [Andrew Ng](https://www.andrewng.org/)
 
 ## Programming Assignments
 ### Course 1: Neural Networks and Deep Learning
